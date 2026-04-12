@@ -14,6 +14,7 @@ This project implements a real-world AI training environment using the OpenEnv s
 ## Project Structure
 ```bash
 app/
+  __init__.py
   env.py
   models.py
   graders.py
